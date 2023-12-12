@@ -48,5 +48,3 @@ This is a simple React application that implements a multistep form using the `u
 - TypeScript
 - Firebase (Note: Firebase is used in the project. Ensure Firebase configuration is set up.)
 
-### License
-This project is licensed under the MIT License.
